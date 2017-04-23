@@ -1,10 +1,5 @@
 package com.tariposio.team06.HRservices;
 
-import com.tariposio.team06.HRservices.InsigniaServices.InsigniaServices;
-import com.tariposio.team06.HRservices.PositionServices.PositionServices;
-import com.tariposio.team06.HRservices.ProfileServices.ProfileServices;
-import com.tariposio.team06.HRservices.ResumeServices.ResumeServices;
-
 import retrofit2.Call;
 import retrofit2.http.POST;
 

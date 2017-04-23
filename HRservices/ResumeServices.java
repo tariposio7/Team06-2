@@ -1,4 +1,4 @@
-package com.tariposio.team06.HRservices.ResumeServices;
+package com.tariposio.team06.HRservices;
 
 import com.google.gson.annotations.SerializedName;
 
