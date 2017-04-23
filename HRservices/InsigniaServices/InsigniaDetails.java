@@ -16,9 +16,6 @@ public class InsigniaDetails {
     @SerializedName("ins_valumn")
     public String ins_valumn;
 
-    @SerializedName("ins_valumn")
-    public String ins_valumn;
-
     @SerializedName("ins_book_part")
     public String ins_book_part;
 
